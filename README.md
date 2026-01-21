@@ -6,7 +6,7 @@ This project analyzes NYC high school data including SAT results, incidents, and
 
 **Author**: Alexander Kuhn  
 **Date**: January 2026  
-**Program**: Webbeet Onboarding Day 5
+**Program**: Webeet Onboarding Day 5
 
 ---
 
